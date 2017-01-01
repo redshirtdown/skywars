@@ -1,4 +1,4 @@
-# Sky Wars: Edge of the Kingdom
+# Sky Wars: Edge of the Kingdom Beta v1.1
 Sky Wars: Edge of the Kingdom is a 100% free, fan-made fantasy conversion for Fantasy Flight Games Star Wars RPG line.
 
 This repository will serve to track all changes through the Beta testing process through to the launch of the Final book.
