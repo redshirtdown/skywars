@@ -23,3 +23,6 @@ This covers all editing and design errors, including typos, formatting, text, im
 17. Page 43: The text for Deflect in the Monk tree (pg43), and possibly elsewhere, reads "When hit by a melee attack, may perform a Deflect incidental to suffer a number of strain no more than ranks in Deflect, then reduce the damage by 1 per rank in Reflect." The bold portion should read "per strain suffered".
   - Need to check this, I believe this is the wording in the FFG books.
 18. Page 66/122: Thick Skin on 66/122 has a word going past the margin.
+19. The Bard's Improved Scathing Tirade is titled Improved Soothing Song
+20. In the Wizard Spell tree the second Ice Storm should be renamed Wall of Ice and the connecting lines is missing.
+21. The Warlock and Wizard Spell trees lack check boxes.
