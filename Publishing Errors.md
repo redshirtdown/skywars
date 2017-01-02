@@ -19,7 +19,8 @@ This covers all editing and design errors, including typos, formatting, text, im
 13. Page 89: Page 89 under Reach reads "attacks at made at engaged..." which should drop the first "at".
 14. Page 99: Air Ship Combat pg 99. The weapon headings have the EoTE weapon headings. It would be advisable to have the Sky Wars weapon headings and then in the text description detail the matching EoTE weapons.
 15. You have [SETBACK] in at least one place instead of a graphic. The one I saw is on page the druid talent tree under outdoorsman.
-16. Page 90/92: On page 90 you refer to Strain Damage as "SD" but in the tables on pages 90 and 92 the term "SH" is used.
+16. Page 90/92: On page 90 you refer to Strain Damage as "SD" but in the tables on pages 90 and 92 the term "SH" is used. This was slightly confusing as the explanation on page 89 had the header of Strain Damage (SD).
+in the description it explains how you went from SD to SH but it is confusing.
 17. Page 43: The text for Deflect in the Monk tree (pg43), and possibly elsewhere, reads "When hit by a melee attack, may perform a Deflect incidental to suffer a number of strain no more than ranks in Deflect, then reduce the damage by 1 per rank in Reflect." The bold portion should read "per strain suffered".
   - Need to check this, I believe this is the wording in the FFG books.
 18. Page 66/122: Thick Skin on 66/122 has a word going past the margin.
