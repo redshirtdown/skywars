@@ -27,3 +27,5 @@ in the description it explains how you went from SD to SH but it is confusing.
 19. The Bard's Improved Scathing Tirade is titled Improved Soothing Song
 20. In the Wizard Spell tree the second Ice Storm should be renamed Wall of Ice and the connecting lines is missing.
 21. The Warlock and Wizard Spell trees lack check boxes.
+22. Page 95: The location/rarity modifier table for equipment on page 95 is below the item description for the Farcaller, and not above the Black Market heading
+23: Page 93+: In the adversaries section all minions have their skills listed with a rating. Should those ratings be removed so it matches the standard rules from EotE?
