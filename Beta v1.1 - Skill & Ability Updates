@@ -5,14 +5,13 @@
 #Warrior
 Knight:
 Skills:
-1. Replace Coercion from Bonus skills with Resilience
-2. Natural Scrapper: Change the name of Natural Scrapper to Natural Warrior, as it fits the skills better
-3. Custom Gear: I assume this is the same as the Jury Rigged Talent from EotE but you will need to state that or what improvements the character can choose from somewhere
-4. Armor Master: Change the title of the talent E3 from Armor Master to Improved Armor Master, as it is different to the talent in C2
-5. Lethal Blows: Remove Lethal Blows in B3 - This talent feels out of place in a Tree and Specialisation that is about defense.  Replace with Knight’s Discipline wording as “Reduce SETBACK from Cool and Discipline checks per rank”.
-6. Correct the cost of Talent in D4 - Current cost is 5 when it should be 20
-7. Armor Training: Change wording to “Reduce encumbrance of worn armor by 1 and SETBACK caused by worn armor per rank of Armor Training”  To make the talent more attractive.
-Abilities:
+1. Replace Coercion from Bonus skills with Resilience (X)
+2. Natural Scrapper: Change the name of Natural Scrapper to Natural Warrior, as it fits the skills better (X)
+3. Field Improvements: Give 1 piece of armor or shield a permanent improvement while it remains in use. Increase armor's ranged or melee defense by one. Alternatively, can decrease the encumbrance of the item by two to a minimum of one. The bonus only applies so long as the character is using the item. If the item is ever lost or destroyed, the character may the character may apply Field Improvements to a new personal weapon or piece or armor. (X)
+4. Armor Master: Change the title of the talent E3 from Armor Master to Improved Armor Master, as it is different to the talent in C2 (X)
+5. Correct the cost of Talent in D4 - Current cost is 5 when it should be 20 (X)
+6. Armor Training: Change wording to “Reduce encumbrance of worn armor by 1 per rank of Armor Training”  
+#Abilities:
 1. Shield Wall: Change to name to Knight’s Defense and the wording to “As a maneuver the character may spend 2 strain and make an Average Resilience check, if successful upgrade the difficulty of all incoming melee and ranged attacked by one for a number of rounds equal to SUCCESS.”
 2. Human Shield: Change name to Barricade and wording to:  “When taking damage while Knight's Defense is active, the character may spend strain equal to shield’s defense rating to increase soak value by same amount” 
 3. Jolt: Change name to Rebuff  wording to “Attackers that fail to damage the character benefiting from Knight’s Defense are disoriented for 1 round”
