@@ -24,16 +24,33 @@ Abilities:
 9. Shield Bash: Change the ability from a maneuver to an action “When equipped with a Shield, the character may make a Melee check against an engaged.  If successful deal damage equal to Brawn plus SUCCESS and disorient the target for one round” Strain cost 2 Cost 10.  The Melee check is as per normal rules for melee attacks
 10. New Ability C3: Hardy Shield, increase the defense rating of equipped shield by 1. Link to C4 and D3, cost 10
 11. Shield Bash C4: Change name to Improved Shield Bash wording to “When performing the Shield Bash action, the target is disoriented for a number of rounds equal to the equipped shield’s defense rating” remove strain cost
-12. Shield Bash D3: Change name to Sword and Board and wording to “When performing a melee attack, spend 2 strain gain BOOST equal to equipped Shield’s defense rating”
+12. Shield Bash D3: Change name to Sword and Shield and wording to “When performing a melee attack, spend 2 strain to gain BOOST equal to equipped Shield’s defense rating”
 13. Shield Stun: Change name to Supreme Shield Bash and the wording to “when performing the Shield Bash action, the character may spend TRIUMPH to stagger the target for 1 round” Remove strain cost
 14. Shield Throw: Change wording to “The character may suffer an additional 2 stain to perform the Shield Bash action at short range.  The action is  performed by making a Ranged check.  The character may not benefit from having a shield equipped until the start of next round when the shield returns” Remove the range and strain subtext from the talent
 15. Shield Throw: Change to Improved Shield Throw and the wording to “When performing the Shield Bash action at range the character will benefit from having a shield equipped as the shield returns immediately.”  Remove the range and strain subtext from the talent
 
 
 Blademaster:
-1. Page 35: Blademaster talent tree duelist is spelled dualist. I realize this is likely a pun since it relates to using two weapons, however it comes across as a misspelling imo.
 Dragoon:
-1. Dragoon command abilities can be crazy powerful and might need to be nerfed
+1. Page 35: Blademaster talent tree duelist is spelled dualist. I realize this is likely a pun since it relates to using two weapons, however it comes across as a misspelling imo.
+2. Dragoon command abilities can be crazy powerful and might need to be nerfed
+#Skills:
+1. Strong Arm - Change wording to “Increase the range of thrown weapons by the ranks of Strong Arm”
+2. Defensive Stance A1 - Change to Lethal Blows
+3. Dualist - Removed, to be replaced with Grit
+4. Parry - Rename to Fencing Master.  This is because players may be confused with Parry from EotE and you may want to include Parry from EotE in the future
+5. Experienced Dualist - Change to “Reduce the difficulty when attacking with two weapons by 1”
+6. Replace Grit from B2 with Precise Strike from D3.  The character will benefit from accessing the tools of their talent tree early  and to also balance the other changes
+7. Defensive Stance D1 - Replace with Knockdown
+8. Swap Precise Strike from C3 with Blademaster from E4.  
+9. BladeMaster - Remove the Strain cost to activate as the talent is now more expensive to get to and better matches the talent from EotE
+10. Finishing Strike - Change to Flashing Steel and wording to “When attacking with two weapons you may allocate additional hits to other targets in range”
+11. Hurl - Change wording to “The character may treat melee weapons with encumbrance of one as throwing weapons with Limited Ammo 1.”
+12. Replace D3 with Dancer’s Draw with wording “The character may draw or holster a weapon or item as an incidental action a number of times a round equal to ranks in Coordination.”
+13. Strong Arm E1 - Replace with Natural Warrior “Once per session the character may re-reroll any 1 Melee or Ranged check”
+#Abilities
+1. Dance of Death - edit the wording to “As a maneuver spend 4 strain and make an Average Coordination check.  For each net SUCCESS gain BOOST to all Melee and Ranged checks until the end of the encounter.  For each net DISADVANTAGE gain SETBACK on all other checks until the end of the encounter.  DESPAIR can be used to make SETBACK last until end of session”.
+
 
 #Cleric
 Monk:
