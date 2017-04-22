@@ -10,56 +10,57 @@ Skills:
 3. Field Improvements: Give 1 piece of armor or shield a permanent improvement while it remains in use. Increase armor's ranged or melee defense by one. Alternatively, can decrease the encumbrance of the item by two to a minimum of one. The bonus only applies so long as the character is using the item. If the item is ever lost or destroyed, the character may the character may apply Field Improvements to a new personal weapon or piece or armor. (X)
 4. Armor Master: Change the title of the talent E3 from Armor Master to Improved Armor Master, as it is different to the talent in C2 (X)
 5. Correct the cost of Talent in D4 - Current cost is 5 when it should be 20 (X)
-6. Armor Training: Change wording to “Reduce encumbrance of worn armor by 1 per rank of Armor Training”  
+6. Armor Training: Change title to Heavy Armor Training and skill to "Heavy Armor Training: Reduce encumbrance of worn armor by 1 per rank of Armor Training and Heavy Armor Training. In addition, Heavy Armor training reduces SETBACK by 1 OR reduces casting difficulty by 1 for worn armor of encumbrance 4 and higher. (X)
 #Abilities:
-1. Shield Wall: Change to name to Knight’s Defense and the wording to “As a maneuver the character may spend 2 strain and make an Average Resilience check, if successful upgrade the difficulty of all incoming melee and ranged attacked by one for a number of rounds equal to SUCCESS.”
-2. Human Shield: Change name to Barricade and wording to:  “When taking damage while Knight's Defense is active, the character may spend strain equal to shield’s defense rating to increase soak value by same amount” 
-3. Jolt: Change name to Rebuff  wording to “Attackers that fail to damage the character benefiting from Knight’s Defense are disoriented for 1 round”
-4. Shield Wall: Reduce the area the slot takes up to only C1 and C2 (freeing C3)  Change wording to “When Knight’s Defense is active, as a maneuver the character may spend 2 strain to provide the defense rating of his equipped shield to another character in engaged range.”
-5. Rushing Defense: Rename to Knight’s Aid and change the wording to “When activating the Shield Wall maneuver the character may spend move from Medium Range to engaged with a friendly character by spending one strain”.  
-6. Range Talent: Remove and replace with Ease of Burden “Using Knight's Aid no longer costs additional strain”
-7. Dig In: Change wording to “Knight's Defense now upgrades incoming melee and ranged attacks for one plus one for each 2 ADVANTAGE (TRIUMPH?) used”
-8. Stun: Stun: Change Name to Improved Rebuff and the wording to “Attackers that fail to damage the character benefiting from Knight’s Defense are now staggered for 1 round”
-9. Shield Bash: Change the ability from a maneuver to an action “When equipped with a Shield, the character may make a Melee check against an engaged.  If successful deal damage equal to Brawn plus SUCCESS and disorient the target for one round” Strain cost 2 Cost 10.  The Melee check is as per normal rules for melee attacks
-10. New Ability C3: Hardy Shield, increase the defense rating of equipped shield by 1. Link to C4 and D3, cost 10
-11. Shield Bash C4: Change name to Improved Shield Bash wording to “When performing the Shield Bash action, the target is disoriented for a number of rounds equal to the equipped shield’s defense rating” remove strain cost
-12. Shield Bash D3: Change name to Sword and Shield and wording to “When performing a melee attack, spend 2 strain to gain BOOST equal to equipped Shield’s defense rating”
-13. Shield Stun: Change name to Supreme Shield Bash and the wording to “when performing the Shield Bash action, the character may spend TRIUMPH to stagger the target for 1 round” Remove strain cost
-14. Shield Throw: Change wording to “The character may suffer an additional 2 stain to perform the Shield Bash action at short range.  The action is  performed by making a Ranged check.  The character may not benefit from having a shield equipped until the start of next round when the shield returns” Remove the range and strain subtext from the talent
-15. Shield Throw: Change to Improved Shield Throw and the wording to “When performing the Shield Bash action at range the character will benefit from having a shield equipped as the shield returns immediately.”  Remove the range and strain subtext from the talent
+1. Shield Wall: Change to name to Knight’s Defense and the wording to “As a maneuver the character may spend 2 strain and make an Average Resilience check, if successful upgrade the difficulty of all incoming melee and ranged attacked by one for a number of rounds equal to SUCCESS. Cannot be used in conjunction with Dodge.” (X)
+2. Human Shield: Change name to Barricade and wording to: “When taking damage while Knight's Defense is active, the character may spend strain equal to shield’s defense rating to increase soak value by same amount” (X)
+3. Jolt: Change name to Rebuff and wording to “Attackers that fail to damage the character benefiting from Knight’s Defense are disoriented for 1 round.” (X)
+4. Shield Wall: Reduce the area the slot takes up to only C1 and C2 (freeing C3)  Change wording to “When Knight’s Defense is active, as a maneuver the character may spend 2 strain to provide the defense rating of his equipped shield to another character in engaged range.” (X)
+5. Rushing Defense: Rename to Knight’s Aid and change the wording to “When activating the Shield Wall maneuver the character may move from Medium Range to engaged with a friendly character by spending one strain”. (X) 
+6. Range Talent: Remove and replace with Ease of Burden “Using Knight's Aid no longer costs additional strain” and change cost to 10 (X)
+7. Dig In: Rename to Stand Fast and change wording to “Knight's Defense now upgrades incoming melee and ranged attacks for one plus one for each 2 ADVANTAGE used” (X)
+8. Stun: Change Name to Improved Rebuff and the wording to “Attackers that fail to damage the character benefiting from Knight’s Defense are now staggered for 1 round” (X)
+9. Shield Bash: Change the ability from a maneuver to an action “When equipped with a Shield, the character may make a Melee check against an engaged target. If successful, deal damage equal to Brawn plus SUCCESS and disorient the target for one round” Strain cost 2 Cost 10.  The Melee check is as per normal rules for melee attacks (X)
+10. New Ability C3: Stalwart Shield, increase the defense rating of equipped shield by 1. Link to C4 and D3, cost 10 (X)
+11. Shield Bash C4: Change name to Improved Shield Bash wording to “When performing the Shield Bash action, the target is disoriented for a number of rounds equal to the equipped shield’s defense rating” remove strain cost (X)
+12. Shield Bash D3: Change name to Sword and Shield and wording to “When performing a melee attack, spend 2 strain to gain BOOST equal to equipped Shield’s defense rating” (X)
+13. Shield Stun: Change name to Supreme Shield Bash and the wording to “when performing the Shield Bash action, the character may spend TRIUMPH to stagger the target for 1 round” Remove strain cost (X)
+14. Shield Throw: Change wording to “The character may suffer an additional 2 stain to perform the Shield Bash action at short range.  The action is  performed by making a Ranged check.  The character may not benefit from having a shield equipped until the start of next round when the shield returns” Remove the range and strain subtext from the talent (X)
+15. Shield Throw: Change to Improved Shield Throw and the wording to “When performing the Shield Bash action at range the character will benefit from having a shield equipped as the shield returns immediately.”  Remove the range and strain subtext from the talent (X)
 
 
 Blademaster:
 1. Page 35: Blademaster talent tree duelist is spelled dualist. I realize this is likely a pun since it relates to using two weapons, however it comes across as a misspelling imo.
-#Skills:
-1. Strong Arm - Change wording to “Increase the range of thrown weapons by the ranks of Strong Arm”
-2. Defensive Stance A1 - Change to Lethal Blows
-3. Dualist - Removed, to be replaced with Grit
-4. Parry - Rename to Fencing Master.  This is because players may be confused with Parry from EotE and you may want to include Parry from EotE in the future
-5. Experienced Dualist - Change to “Reduce the difficulty when attacking with two weapons by 1”
-6. Replace Grit from B2 with Precise Strike from D3.  The character will benefit from accessing the tools of their talent tree early  and to also balance the other changes
-7. Defensive Stance D1 - Replace with Knockdown
-8. Swap Precise Strike from C3 with Blademaster from E4.  
-9. BladeMaster - Remove the Strain cost to activate as the talent is now more expensive to get to and better matches the talent from EotE
-10. Finishing Strike - Change to Flashing Steel and wording to “When attacking with two weapons you may allocate additional hits to other targets in range”
-11. Hurl - Change wording to “The character may treat melee weapons with encumbrance of one as throwing weapons with Limited Ammo 1.”
-12. Replace D3 with Dancer’s Draw with wording “The character may draw or holster a weapon or item as an incidental action a number of times a round equal to ranks in Coordination.”
-13. Strong Arm E1 - Replace with Natural Warrior “Once per session the character may re-reroll any 1 Melee or Ranged check”
+#Skills: 
+1. Strong Arm - Change wording to “Increase the range of thrown weapons by the ranks of Strong Arm” (X)
+2. Defensive Stance A1 - Change to Lethal Blows (X)
+3. Dualist - Moved to E1, replacing Strong Arm (X)
+4. Parry - Rename to Fencing Master.  This is because players may be confused with Parry from EotE and you may want to include Parry from EotE in the future. (X)
+5. Replaced Experienced Dualist with Toughened (X)
+6. Replaced Toughened with Strong Arm (X)
+6. Replace Grit from B2 with Precise Strike from D3.  The character will benefit from accessing the tools of their talent tree early and to also balance the other changes (X)
+7. Defensive Stance D1 - Replace with Knockdown (X)
+8. Swap Precise Strike from C3 with Blademaster from E4.  (X)
+9. BladeMaster - Remove the Strain cost to activate as the talent is now more expensive to get to and better matches the talent from EotE (X)
+10. Finishing Strike - Change to Flashing Steel and wording to “When attacking with two weapons you may allocate additional hits to other targets in range” (X)
+11. Hurl - Change wording to “The character may treat melee weapons with encumbrance of 2 as throwing weapons with Limited Ammo 1.” (X)
+12. Replace Experienced Dualist with Dancer’s Draw with wording “The character may draw or holster a weapon or item as an incidental action a number of times a round equal to ranks in Coordination.” (X)
+13. Replace Blademaster E4 with Natural Warrior “Once per session the character may re-reroll any 1 Melee or Ranged check” (X)
 #Abilities
-1. Dance of Death - edit the wording to “As a maneuver spend 4 strain and make an Average Coordination check.  For each net SUCCESS gain BOOST to all Melee and Ranged checks until the end of the encounter.  For each net DISADVANTAGE gain SETBACK on all other checks until the end of the encounter.  DESPAIR can be used to make SETBACK last until end of session”.
-2. Perfect Focus - Replace with Steady Breathing Replace with Fencer’s Dance with wording “While Dance of Death is active, as a maneuver the character may spend 1 strain up to ranks in Athletics Cunning to upgrade the difficulty of all incoming Melee checks by an equal number until the start of the character’s next round.”
-3. Challenge - Change the wording to “Once per round the character as a maneuver may spend 3 strain to challenge an enemy within short range.  Make an opposed Coercion vs Discipline roll.  If successful the enemy must attack the character for a number of rounds equal to SUCCESS and suffers SETBACK equal to ADVANTAGES on their combat check” 
-4. Not Left Handed - Change the check type from Athletics to Deception.
-5. Calm Breathing - Replace with Perfect Focus with the wording “While Dance of Death is active DISADVANTAGE on Melee and Ranged checks can’t be used to lose strain” increase the cost to 15
-6. Cornered - change the wording to “When engaged in melee by multiple opponents the character may spend DESPAIR from his opponent rolls to force their attack to hit another opponent.”
-7. Magnitude D2 - Replace with Focused Challenge with the wording “May ignore all SETBACK caused by Dance of Death when using Challenge”
-8. Magnitude E2 - Replace with Roaring Challenge with the wording “ May spend TRIUMPH when performing the Challenge maneuver to immobilize the target for 1 round”
-9. Close the Distance - Change the wording to “As an action the character may spend 3 strain to perform an attack with a throwing weapon within Medium range,  If the attack is successful the character may move directly to engaged with target.  Normal range limits of the throwing weapon are still applied” 
-10. Striking Distance - Change wording to “When performing the Close the Distance action the character may spend 2 ADVANTAGE to upgrade his next melee combat check against that target
-11. Offhand Throw - Change wording to “When performing Close the Distance the character can spend 2 strain to throw two weapons” increase cost to 15
-12. Wary Distance - Change name to Faster than the Eye and the wording to “ Increase your melee and ranged defense by 1 until the start of your next turn after performing Close the Distance”
-13. Swap Offhand Throw from D3 and Faster than the Eye from D4
-14. Chain Attack - Change wording to “The character is allowed to perform a melee attack against the target of Close the Distance in the same round as an incidental action”
+1. Dance of Death - edit the wording to “As a maneuver spend 4 strain and make an Average Coordination check.  For each net SUCCESS gain BOOST to all Melee and Ranged checks until the end of the encounter.  For each net DISADVANTAGE gain SETBACK on all other checks until the end of the encounter.  DESPAIR can be used to make SETBACK last until end of session”. (X)
+2. Perfect Focus - Rename Fencer’s Dance and change wording to “While Dance of Death is active, as a maneuver the character may spend 1 strain up to ranks in Athletics or Cunning to upgrade the difficulty of all incoming Melee checks by an equal number until the start of the character’s next round.” (X)
+3. Challenge - Change the wording to “As a maneuver, once per round the character may spend 3 strain to challenge an enemy within short range.  Make an opposed Coercion vs Discipline roll.  If successful the enemy must attack the character for a number of rounds equal to SUCCESS and suffers SETBACK equal to ADVANTAGES on their combat check.” (X)
+4. Not Left Handed - Change the check type from Athletics to Deception. (X)
+5. Calm Breathing - Replace with Perfect Focus and change wording to “While Dance of Death is active DISADVANTAGE on Melee and Ranged checks can’t be used to lose strain” increase the cost to 15 (X)
+6. Cornered - change the wording to “When engaged in melee by multiple opponents the character may spend DESPAIR from his opponent rolls to force their attack to hit another opponent.” (X)
+7. Magnitude D2 - Replace with Focused Challenge with the wording “May ignore all SETBACK caused by Dance of Death when using Challenge” (X)
+8. Magnitude E2 - Replace with Roaring Challenge with the wording “After a successful Challenge check, may force an additional number of targets at short range to attack the player equal to ranks in Coercion." (X)
+9. Close the Distance - Change the wording to “As an action the character may spend 3 strain to perform an attack with a throwing weapon within Medium range. If the attack is successful the character may move directly to engaged with target.” (X) 
+10. Striking Distance - Change wording to “When performing the Close the Distance action the character may spend 2 ADVANTAGE to upgrade his next melee combat check against that target (X)
+11. Offhand Throw - Reduce strain cost to 2 (X)
+12. Wary Distance - Change name to Faster than the Eye and the wording to “Increase your melee and ranged defense by 1 until the start of your next turn after performing Close the Distance” (X)
+13. Swap Offhand Throw from D3 and Faster than the Eye from D4 (X)
+14. Chain Attack - Change wording to “After a successful Close the Distance attack, the character may suffer 2 strain to immediately attack one enemy as a maneuver.” (X)
 
 
 
