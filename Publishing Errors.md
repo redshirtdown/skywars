@@ -3,8 +3,8 @@
 This covers all editing and design errors, including typos, formatting, text, image placement, etc.
 
 1. [Move conversion context to sidebars in specific pages](https://www.reddit.com/r/swrpg/comments/5jl3ol/sky_wars_edge_of_the_kingdom_a_free_120_page/dbhk9qg/)
-  - Need to determine what page #'s need updating.
-2. In terms of layout, I think some of the images are in the wrong places for the text they correspond to. For example on page 31, the pictures for Knight and Blademaster should be swapped. You read down a column, not across. 
+  - Need to determine what page #'s need updating. (X)
+2. In terms of layout, I think some of the images are in the wrong places for the text they correspond to. For example on page 31, the pictures for Knight and Blademaster should be swapped. You read down a column, not across. (X)
   - This is fairly subjective, needs more feedback though I'm ambivalent either way.
 3. Page 74: Ball of light ability block named Jump on the Sorcerer Spell list on page 74.
 4. Page 91: Bastard Swords are larger than Long Swords. What you have labeled as Bastard would be more appropriately labeled as Short Swords.
