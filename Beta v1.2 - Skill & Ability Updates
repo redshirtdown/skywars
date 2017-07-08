@@ -5,11 +5,11 @@
 #Warrior
 Knight:
 Skills:
-1. Replace Coercion from Bonus skills with Resilience (X)
-2. Natural Scrapper: Change the name of Natural Scrapper to Natural Warrior, as it fits the skills better (X)
-3. Field Improvements: Give 1 piece of armor or shield a permanent improvement while it remains in use. Increase armor's ranged or melee defense by one. Alternatively, can decrease the encumbrance of the item by two to a minimum of one. The bonus only applies so long as the character is using the item. If the item is ever lost or destroyed, the character may the character may apply Field Improvements to a new personal weapon or piece or armor. (X)
-4. Armor Master: Change the title of the talent E3 from Armor Master to Improved Armor Master, as it is different to the talent in C2 (X)
-5. Correct the cost of Talent in D4 - Current cost is 5 when it should be 20 (X)
+1. Replaced Coercion from Bonus skills with Resilience 
+2. Natural Scrapper: Changed the name of Natural Scrapper to Natural Warrior, as it fits the skills better 
+3. Field Improvements: Changed Custom Gear to Field Improvements: Give 1 piece of armor or shield a permanent improvement while it remains in use. Increase armor's ranged or melee defense by one. The bonus only applies so long as the character is using the item. May only apply Field Improvements to one personal weapon or piece or armor.
+4. Armor Master: Changed the title of the talent E3 from Armor Master to Experienced Soldier, as it is different to the talent in C2 
+5. Corrected the cost of Talent in D4 - Current cost is 5 when it should be 20
 6. Armor Training: Change title to Heavy Armor Training and skill to "Heavy Armor Training: Reduce encumbrance of worn armor by 1 per rank of Armor Training and Heavy Armor Training. In addition, Heavy Armor training reduces SETBACK by 1 OR reduces casting difficulty by 1 for worn armor of encumbrance 4 and higher. (X)
 #Abilities:
 1. Shield Wall: Change to name to Knight’s Defense and the wording to “As a maneuver the character may spend 2 strain and make an Average Resilience check, if successful upgrade the difficulty of all incoming melee and ranged attacked by one for a number of rounds equal to SUCCESS. Cannot be used in conjunction with Dodge.” (X)
