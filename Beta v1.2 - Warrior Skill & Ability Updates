@@ -1,4 +1,7 @@
-# Beta v1.1 Updates
+# Beta v1.2 Updates
+
+1. Minor tweaks and grammar fixes from 1.1.
+2. Changed Splint Mail to "Add SETBACK when performing Athletics or Coordination checks." instead of a boost.
 
 #Skills
 
@@ -81,81 +84,18 @@ Dragoon:
 14. Dodge C4 - Replaced with Grit
 
 #Abilities:
-1. A1-A4 - Replaced by Dragoon Leap wording as “The Dragoon takes to the sky to attack his foes and aid his friends.  For him it is natural as walking.  As a maneuver make an Athletics check to leap vertically with difficulty and strain based on the distance.  Short Range 1 DIFFICULTY cost 1 strain, Medium Range 2 DIFFICULTY cost 2 strain, Long Range 3 DIFFICULTY cost 3 strain.  You fall one range band at the end of each round and suffer no damage from landing from Dragoon Leap” Cost 10 Linked to B1/B2, B3 and B4
-2. B1/B2 - Replaced with Animal Bond  wording as “Develop a long-term bond with a single animal of silhouette equal to ranks in Leadership.  In combat the bonded animal acts on its own initiative and the character may may Leadership checks to provide commands to the animal.  If the animal dies, the character may not bond again for a number of sessions equal to the silhouette and suffers 1 SETBACK on all checks during this time” Cost 10 Linked to C1 and C2
-3. B3 - Replaced with Falling with Style wording as “When the character is in the air they may move one range band horizontally for each range band he travels down” Cost 5 Linked to C3/C4
-4. B4 - Replaced with Leaf on the Wind wording as “ When the character is in the air they may perform Dragoon Leap spending double the normal strain cost” cost 10 Linked to C3/C4
+1. A1-A4 - Replaced by Dragoon Leap wording as “The Dragoon takes to the sky to attack his foes and aid his friends.  As a maneuver make an Athletics check to leap vertically with difficulty and strain based on  distance leapt.  Short Range 1 d costs 1 strain, Medium Range 2 dd costs 2 strain, Long Range 3 ddd costs 3 strain.  You fall one range band at the end of each round and suffer no damage on landing from Dragoon Leap.” Cost 10 Linked to B1/B2, B3 and B4
+2. B1/B2 - Replaced with Animal Bond wording as “Develop a long-term bond with a single animal of silhouette equal to ranks in Leadership.  In combat the bonded animal acts on its own initiative and the character may may Leadership checks to provide commands to the animal.  If the animal dies, the character may not bond again for a number of sessions equal to the silhouette and suffers 1 SETBACK on all checks during this time” Cost 10 Linked to C1 and C2
+3. B3 - Replaced with Falling with Style wording as “When the character is in the air they may move one range band horizontally for each range band he travels down.” Cost 5 Linked to C3/C4
+4. B4 - Replaced with Leaf on the Wind wording as “When the character is in the air they may perform Dragoon Leap spending double the normal strain cost.” cost 10 Linked to C3/C4
 5. C1 - Replaced with Overwhelming Will wording as “Spend 2 strain to make an average Discipline check, to inflict 1 strain per SUCCESS to a single target within medium range. Spend 2 ADVANTAGE to add another target” Cost 10 Link to D1
 6. C2 - Replaced with Empathic Link wording as “You and your mount have limited communication through nonverbal means, eliminating the need to make Leadership checks to provide commands. In addition both the character and the animal can see through the other’s eyes and know the feelings of the other.” Cost 5 Link to D2
-7. C3/C4 - Replaced with Skybreaker wording as “As an action spend 2 strain to fall from the sky, moving from a maximum of Long range to engaged and make a melee attack against an target.  Your weapon gains the Linked quality for each range band moved through.  May be performed while mounted on bonded animal” Cost 10 Link to D3 and D4
-8. D1 - Replaced Force of Will wording as “ Spend 2 strain to make an opposed Discipline vs Discipline check against a target up to medium range. Can force the target to adopt an emotional state or believe something untrue for rounds (in combat) or minutes (in narrative) equal to SUCCESS” Cost 15 link to E1
+7. C3/C4 - Replaced with Skybreaker wording as “As an action spend 2 strain to fall from the sky, moving from a maximum of Long range to engaged and make a melee attack against an target.  Your weapon gains the Linked quality for each range band moved through. May be performed while mounted on bonded animal.” Cost 10 Link to D3 and D4
+8. D1 - Replaced Force of Will wording as “Spend 2 strain to make an opposed Discipline vs Discipline check against a target up to medium range. Can force the target to adopt an emotional state or believe something untrue for rounds (in combat) or minutes (in narrative) equal to SUCCESS.” Cost 15 link to E1
 9. D2 - Replaced with Shared Pain wording as “When bonded animal suffers damage after soak, as an incidental the character may halve the damage.  The character then suffers the difference.” Cost 10 link to E2
 10. D3 - Replaced with Lightning Strike wording as “When performing the Skybreaker action, spend 1 strain to gain BOOST equal to each range band moved through” Cost 10 Link to D4 and E3
-11. D4 - Replaced with As the Wind wording as “ If the character has moved through 2 range band this round increase melee and ranged defense 1” Cost 5 link to D3 and E4
-12. E1 - Replaced with Bend to My Will wording as “ Spend 3 strain to make an opposed Discipline vs Discipline check. Can force the target to follow the character’s orders for rounds (combat) or minutes (narrative) equal to SUCCESS.  If target is in combat or forced to harm himself or allies upgrade his pool once.” Cost 20
+11. D4 - Replaced with As the Wind wording as “If the character has moved through 2 range band this round increase melee and ranged defense 1” Cost 5 link to D3 and E4
+12. E1 - Replaced with Bent Will wording as “Spend 3 strain to make an opposed Discipline vs Discipline check. Can force the target to follow the character’s orders for rounds (combat) or minutes (narrative) equal to SUCCESS.  If target is in combat or forced to harm himself or allies upgrade his pool once.” Cost 20
 13. E2 - Replaced with As One wording as “The character’s bonded animal gains the benefit of any defense rating or dodge maneuvers that the character is benefitting from.  In addition the bonded animal may perform the Skybreaker, if purchased, by itself” Cost 15
-14. E3 - Replaced with Meteor Strike wording as “When performing the Skybreaker action, the character may instead strike the ground or other flat surface, spending strain based on range bands moved through and dealing damage in an area as described below.  Short Range cost 2 strain deal 10 damage to all in engaged range, Medium Range cost 4 strain dealing 20 damage to all in short range, Long Range cost 6 strain deal 30 damage to all in medium range.  The character and bonded animal (if being ridden) suffer half this damage bypassing soak.” Cost 20
+14. E3 - Replaced with Meteor Strike wording as “When performing the Skybreaker action, the character may strike the ground, spending strain based on range bands moved through and dealing damage to all characters in an area as described below. The character and bonded animal (if being ridden) suffer half this damage, ignoring soak. Short Range cost 2 strain deal 10 damage to all in engaged range, Medium Range cost 4 strain dealing 15 damage to all in short range, Long Range cost 6 strain deal 25 damage to all in medium range.” Cost 20
 15. E4 - Replaced with Together We Fly wording as “Spend 2 strain to make an average Leadership Check.  If successful one ally may use Dragoon Leap for a number of rounds equal to SUCCESS.  Spend 2 ADVANTAGE to increase the number of targets by one. Spend TRIUMPH to allow one ally to use Falling with Style and Leaf on the Wind if purchased” Cost 20
-
-
-#Cleric
-Monk:
-1. Page 43: The text for Deflect in the Monk tree (pg43), and possibly elsewhere, reads "When hit by a melee attack, may perform a Deflect incidental to suffer a number of strain no more than ranks in Deflect, then reduce the damage by 1 per rank in Reflect." The bold portion should read "per strain suffered".
-  - Need to check this, I believe this is the wording in the FFG books.
-#Skills: 
-1. I Know Kung Fu - Change the wording to “Once per session, the character may reroll any 1 Athletics or Melee skill check.”
-2. Remove Deflection and Intense Focus - recreate in ability 
-3. Stunning blow is useless currently
-
-#Abilities
-1. A1/A2/A3/A4 - Replaced with Body, Mind and Spirit as One with wording as “A monk’s seeks balance and harmony with all aspects of himself, enabling to him to exceed the limits of mortals.  Once per encounter as a maneuver the character can roll a Spirit check to upgrade his next skill check rolled.  Easy Check, Spend 2 strain Upgrade Once; Average Check, Spend 4 strain Upgrade twice; Hard Check, Spend 6 strain Upgrade thrice.  If the character fails to succeed they must upgrade the difficulty of the next check once.”Cost 10 Link to B1,B2 and B3/B4
-2. B1 - Replaced with Purest Form wording as “When performing the Body, Mind and Spirit as One maneuver, the character may spend 2 ADVANTAGE to increase the number of checks Body, Mind and Spirit as One applies to by 1” Cost 10 link to B2 and C1
-3. B2 - Replaced  with Years of Training wording as “Spend 3 Strain as an incidental to gain soak equal ranks in Resilience for one round””When attacked spend 3 strain to double all soak not gained from armour, for that attack” Cost 10 link to B1 and C2/C3
-4. B3/B4 - Replaced with Spirit Blast wording as “By spending 3 strain the character may perform the Spirit Blast action at an enemy at Short Range.  Make an average Spirit check, if successful dealing 7 damage plus 1 per SUCCESS, with Blast 6” Clost 10 link to C2/C3 and C4
-5. C1 - Replaced with Soft Form wording as “After a successful unarmed melee check to inflict strain damage, the character may spend ADVANTAGE to disarm the opponent.  If disarmed a TRIUMPH may be spent to gain control of the weapon.” cost 5 link to C2/C3 and D1
-6. C2/C3 - Replaced with Flaming Uppercut wording as “The character as an attack action may spend 3 strain to make an unarmed melee check against an opponent at Engaged range.  If successful deal damage equal to Brawn+6 and Disorient 2.  May spend TRIUMPH to stagger the target for 1 round for each TRIUMPH spent.” Cost 15 link to C1, D2 and D3
-7. C4 - Replaced with Longest Breath wording as “The character may spend up to 2 strain to increase the range of Spirit Blast by one range band equal to the strain spent: Cost 10 Link to D4
-
-
-Paladin:
-Priest: 
-1. Page 47: In the priest talent section there is two 5 point talents in the 15 point row
-2. Page 47: The Priest's Resurrection ability feels like it should be more expensive (maybe flip a destiny point or something)
-
-#Rogue
-Assassin:
-Thief:
-Air Pirate:
-
-#Natura
-Druid:
-Barbarian:
-Ranger:
-
-#Mage
-Sorcerer (Page 74):
-1. Ball of light ability block named Jump on the Sorcerer Spell list on page 74.
-2. The Sorcerer talent "Meteor Strike" reads like a detect magic spell
-
-Warlock (Page 76):
-1. Phantom blades spell not clear on attack/damage capabilities
-2. Warlock Spell trees lack check boxes.
-3. Vampiric Touch has same copy as Mount, actual skill copy: Vampiric Touch: Strain - 3 | Damage - 6 | Make a melee check. If successful, may deal damage and regain health equal to additional successes (not base damage).
-
-
-Wizard (Page 78):
-1. In the Wizard spell tree, 'Ice Storm' is given as the name to two different spells. One is the wall of ice spell.
-2. Wizard Time Stop ability is crazy powerful and there's no limitations to how often it can be used
-3. In the Wizard Spell tree the second Ice Storm should be renamed Wall of Ice and the connecting lines is missing.
-4. Wizard Spell trees lack check boxes.
-
-Bard (Page 79):
-1. The Bard's Improved Scathing Tirade is titled Improved Soothing Song
-
-
-#Adventurer
-Explorer:
-Merchant:
-Diplomat:
-
-
